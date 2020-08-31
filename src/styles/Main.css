@@ -1,0 +1,20 @@
+.main {
+    text-align: center;
+    background: lightblue;
+    /* grid-column: 1 / 2;
+    grid-row: 1 / 2; */
+}
+table {
+    width: 100%;
+    text-align: center;
+    border-spacing: 0px;
+}
+.temprature {
+    background: red;
+}
+.air-pressure {
+    background: lightyellow;
+}
+.humidity {
+    background: lightgreen;
+}
